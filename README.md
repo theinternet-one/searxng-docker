@@ -16,6 +16,7 @@ Create a new SearXNG  instance in five minutes using Docker
 - Get searxng-docker
   ```sh
   cd /usr/local
+  #git clone https://github.com/searxng/searxng-docker.git
   git clone https://github.com/searxng/searxng-docker.git
   cd searxng-docker
   ```
